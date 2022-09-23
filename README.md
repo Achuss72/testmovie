@@ -50,7 +50,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy to Heroku</summary>
 <p>
 <br>
-<a href="https://telegram.dog/XTZ_HerokuBot?start=am9zcHJvamVjdHMvdGdtb3ZpZWJvdCBtYXN0ZXI">
+
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 <a gref="https://railway.app/new/template/66dxd_?referralCode=Fkgi6C">
 <a href="https://youtu.be/DFJxT7nUh10"><img src="https://img.shields.io/badge/How%20to%20Deploy%20on%20Heroku-blue.svg?logo=Youtube"></a>
@@ -64,7 +64,7 @@ You can deploy this bot anywhere.
 <br/>
 
 <p align="left">
-<a href="https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fjosprojects%2Ftgmoviebot"
+<a href="https://railway.app/new/template?template=https://railway.app/new/template/D1jlMu?referralCode=Fkgi6C"
 ">
      <img height="30px" src="https://railway.app/button.svg">
   </a>
